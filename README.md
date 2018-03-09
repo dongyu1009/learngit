@@ -6,4 +6,4 @@ this is different
 =======
 creating a branch is quick and simple
 >>>>>>> feature1
-this is a test`
+this is a test` >>>>>bug fixed!!
